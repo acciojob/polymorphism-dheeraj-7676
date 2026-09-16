@@ -18,6 +18,8 @@ public class Main {
         System.out.println(p.product(1,2,5));
         System.out.println(p.product(2.5,2.8));
 
+        
+
     }
 
 }
